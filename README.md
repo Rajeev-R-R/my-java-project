@@ -1,2 +1,2 @@
-# my-java-project
-this is my second project.
+Login and Resgistration website using HTML CSS JAVASCRIPT.
+
