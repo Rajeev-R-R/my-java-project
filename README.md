@@ -1,2 +1,2 @@
-Login and Resgistration website using HTML CSS JAVASCRIPT.
+Login and Resgistration website using HTML,CSS and JAVASCRIPT.
 
